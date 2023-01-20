@@ -260,7 +260,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://t.me/KK_KanimangalamKovilakam",
                             ),
                         ],
                         [
@@ -668,7 +668,7 @@ def donate(update: Update, _: CallbackContext):
         context: CallbackContext -
     """
 
-    update.effective_message.reply_text("can Donate Via \n Razorpay 👉 https://pages.razorpay.com/GODFATHERDONATIONS \n PayPal 👉 https://www.paypal.com/paypalme/mrakki58 for more Contact in @Godfatherakki!  >_<")
+    update.effective_message.reply_text("can Donate Via \n Razorpay 👉 https://t.me/KK_KanimangalamKovilakam \n PayPal 👉 https://t.me/KK_KanimangalamKovilakam for more Contact in @KK_KanimangalamKovilakam!  >_<")
 
 
 @zaidmsg(Filters.status_update.migrate)
