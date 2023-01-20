@@ -1,16 +1,16 @@
 [zaidconfig]
 log = True
-APP_ID = 6435225
-API_HASH = 4e984ea35f854762dcde906dce426c2d
+APP_ID = 22331950
+API_HASH = 112e87ded984e6d03d3197decac00f4e
 TOKEN = Your Bot Token. @botfather
-OWNER_ID = 1669178360
+OWNER_ID = 5847077086
 STRING_SESSION = telethon string Session @@StarkStringGenBot
 OWNER_USERNAME = Timesisnotwaiting
 SQLALCHEMY_DATABASE_URI = Your Database url from elephantsql.com, replace postgres to postgresql:your database url
 MESSAGE_DUMP = -1001509525202
 GBAN_LOGS = -1001509525202
-SYS_ADMIN = 1920507972
-DEV_USERS = 1920507972
+SYS_ADMIN = 5847077086
+DEV_USERS = 5847077086
 LOAD =
 NO_LOAD = sed
 WEBHOOK = False
